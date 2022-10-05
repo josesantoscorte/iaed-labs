@@ -1,0 +1,13 @@
+2. log(n), não é apertado.
+
+3. n/2 , é apertado.
+
+4. n ln(n), 
+
+5. n^2, 
+
+6. n/2 - n (melhor caso 1).
+   não é possivel estabelercer
+   uma complexidade assimptótica
+   apertada porque o melhor caso
+   é difrente do pior caso
